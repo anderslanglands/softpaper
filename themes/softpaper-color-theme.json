@@ -2,7 +2,7 @@
 	"name": "softpaper",
 	"type": "light",
 	"colors": {
-		"editor.background": "#f3f2ef",
+		"editor.background": "#f3f1eb",
 		"editor.foreground": "#5f5f5e"
 	},
 	"tokenColors": [
@@ -56,13 +56,6 @@
 				"foreground": "#660000"
 			}
 		},
-		// {
-		// 	"name": "Operators",
-		// 	"scope": "keyword.operator",
-		// 	"settings": {
-		// 		"foreground": "#777777"
-		// 	}
-		// },
 		{
 			"name": "Keywords",
 			"scope": [
@@ -70,7 +63,6 @@
 				"storage"
 			],
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#2b2b2b"
 			}
 		},
@@ -81,7 +73,6 @@
 				"support.type"
 			],
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#2b2b2b"
 			}
 		},
@@ -103,7 +94,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"fontStyle": "bold",
+				// "fontStyle": "bold",
 				"foreground": "#2b2b2b",
 			}
 		},
@@ -114,7 +105,7 @@
 				"support.function"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				// "fontStyle": "italic",
 				"foreground": "#2b2b2b",
 			}
 		},
@@ -135,7 +126,6 @@
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "bold",
 			}
 		},
 		{
