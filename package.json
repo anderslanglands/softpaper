@@ -18,5 +18,6 @@
                 "path": "./themes/softpaper-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": "https://github.com/anderslanglands/softpaper"
 }
