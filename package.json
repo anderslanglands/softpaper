@@ -1,0 +1,22 @@
+{
+    "name": "softpaper",
+    "displayName": "softpaper",
+    "description": "Soft, easy-on-the-eyes readability",
+    "version": "0.0.1",
+    "publisher": "anderslanglands",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "softpaper",
+                "uiTheme": "vs",
+                "path": "./themes/softpaper-color-theme.json"
+            }
+        ]
+    }
+}
