@@ -94,8 +94,6 @@
 				"support.variable"
 			],
 			"settings": {
-				// "fontStyle": "bold",
-				"foreground": "#2b2b2b",
 			}
 		},
 		{
@@ -106,7 +104,6 @@
 			],
 			"settings": {
 				// "fontStyle": "italic",
-				"foreground": "#2b2b2b",
 			}
 		},
 		{
